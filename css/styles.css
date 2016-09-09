@@ -89,10 +89,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#787878', end
 }
 
 .skills {
-  width: 30%;
+  width: 40%;
   text-align: center;
-  margin: 0 auto;
   padding-top: 30px;
+  margin: 0 auto;
+}
+
+.skills ul {
+  list-style: none;
+  padding-left: 0;
 }
 
 .skills li {
